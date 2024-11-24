@@ -3,5 +3,5 @@
   <br><br>
   <img src="https://skillicons.dev/icons?i=py,cs,go,html,css">
   <br><br>
-  <img src="https://count.getloli.com/get/@:bvtxne?theme=booru-vp" height=100>
+  <img src="https://count.getloli.com/get/@:bvtxne?theme=booru-vp&darkmode=0" height=100>
 </div>
